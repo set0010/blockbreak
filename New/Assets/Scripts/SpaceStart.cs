@@ -16,7 +16,7 @@ public class SpaceStart : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.Space))
         {
-            SceneManager.LoadScene("Main");
+            SceneManager.LoadScene("main");
         }
     }
 }
